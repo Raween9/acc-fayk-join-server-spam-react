@@ -277,7 +277,7 @@ const client270 = new Discord.Client();
 const client271 = new Discord.Client();
 const client272 = new Discord.Client();
 const client273 = new Discord.Client();
-const client274 = new Discord.Client();
+const client274 = new Discord.Client(OTM5NTY4NDA1MzIzODcwMjg4.Gb3tGT.hqWQXUgVYcofcW0IIcSIK6zny0A7rlSnuB9s3A);
 
 
 
@@ -313,7 +313,7 @@ client.on("ready", () => {
 });
 
 client.login("");
-client2.login("");
+client2.login("OTM5NTY4NDA1MzIzODcwMjg4.Gb3tGT.hqWQXUgVYcofcW0IIcSIK6zny0A7rlSnuB9s3A");
 client3.login("");
 client4.login("");
 client5.login("");
